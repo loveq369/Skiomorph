@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>65BD6FEA-478C-4EA6-865E-711850F251AB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Skiomorph</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>65D6A03C-2AE7-4B19-97BE-55AB2E2F3931</key>
+		<string>https://svn.code.sf.net/p/skim-app/code/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Skiomorph.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>65D6A03C-2AE7-4B19-97BE-55AB2E2F3931</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>65D6A03C-2AE7-4B19-97BE-55AB2E2F3931</key>
+		<string>https://svn.code.sf.net/p/skim-app/code</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://svn.code.sf.net/p/skim-app/code/trunk/Skiomorph.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>65D6A03C-2AE7-4B19-97BE-55AB2E2F3931</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>65D6A03C-2AE7-4B19-97BE-55AB2E2F3931</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Skiomorph</string>
+		</dict>
+	</array>
+</dict>
+</plist>
